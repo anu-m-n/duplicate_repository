@@ -1,4 +1,4 @@
-Routes
+#Routes
 This directory contains route definitions that map HTTP requests to controller functions.
 
 Routes should:
